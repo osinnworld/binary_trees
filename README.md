@@ -1,0 +1,29 @@
+## List of Programs
+
+     1	0-binary_tree_node.c
+     2	0-main.c
+     3	10-binary_tree_depth.c
+     4	11-binary_tree_size.c
+     5	12-binary_tree_leaves.c
+     6	13-binary_tree_nodes.c
+     7	14-binary_tree_balance.c
+     8	15-binary_tree_is_full.c
+     9	16-binary_tree_is_perfect.c
+    10	17-binary_tree_sibling.c
+    11	18-binary_tree_uncle.c
+    12	1-binary_tree_insert_left.c
+    13	1-main.c
+    14	2-binary_tree_insert_right.c
+    15	2-main.c
+    16	3-binary_tree_delete.c
+    17	3-main.c
+    18	4-binary_tree_is_leaf.c
+    19	4-main.c
+    20	5-binary_tree_is_root.c
+    21	6-binary_tree_preorder.c
+    22	7-binary_tree_inorder.c
+    23	8-binary_tree_postorder.c
+    24	9-binary_tree_height.c
+    25	binary_trees.h
+    26	README.md
+    27	update_readme.sh
